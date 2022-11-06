@@ -5,6 +5,8 @@
 
 **Email:** jeffrey.yang@eccles.utah.edu &nbsp;  **Office:** BUC 450B
 
+**[CV](CV_Jeffrey_Yang_11_5_2022.pdf)**
+
 <br>
 
 ### Working Papers
