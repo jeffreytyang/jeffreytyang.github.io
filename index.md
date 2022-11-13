@@ -12,7 +12,7 @@
 ### Working Papers
 
 
-**[Cybersecurity Risk in Crypto Securities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4275724)** with Da Huang
+**[Cybersecurity Risk in Crypto Securities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4275724)** with [Da Huang](https://dahuang-finance.github.io/)
 <br>
 
 
