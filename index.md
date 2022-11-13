@@ -16,11 +16,11 @@
 <br>
 
 
-**[Does Spoofing Harm Market Quality?]()** with Jonathan Brogaard and Dan Li
+**[Does Spoofing Harm Market Quality?]()** with [Jonathan Brogaard](https://brogaard.utah.edu/) and [Dan Li](https://myweb.cuhk.edu.cn/lidan)
 <br>
 
 
-**[Why the Corporate Form Limits Diversity: Evidence from Open Source Software]()** with Davidson Heath and Nathan Seegert
+**[Why the Corporate Form Limits Diversity: Evidence from Open Source Software]()** with [Davidson Heath](http://davidsontheath.github.io/) and [Nathan Seegert](http://www.nathanseegert.com/)
 <br>
 
 
