@@ -16,7 +16,7 @@
 <br>
 
 
-**[Does Spoofing Harm Market Quality?]()** with [Jonathan Brogaard](https://brogaard.utah.edu/) and [Dan Li](https://myweb.cuhk.edu.cn/lidan)
+**[Does High Frequency Market Manipulation Harm Market Quality?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280120)** with [Jonathan Brogaard](https://brogaard.utah.edu/) and [Dan Li](https://myweb.cuhk.edu.cn/lidan)
 <br>
 
 
