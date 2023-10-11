@@ -5,7 +5,7 @@
 
 **Email:** jeffrey.yang@eccles.utah.edu &nbsp;  **Office:** BUC 450B
 
-
+**[Curriculum Vitae](CV_Jeffrey_Yang.pdf)**
 
 <br>
 
