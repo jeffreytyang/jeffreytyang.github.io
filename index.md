@@ -20,7 +20,7 @@
 <br>
 
 
-**[Diversity, Productivity, and the Homophily Trap: Evidence from Open Source Software]()** with [Davidson Heath](http://davidsontheath.github.io/) and [Nathan Seegert](http://www.nathanseegert.com/)
+**[Team Production and the Homophily Trap: Evidence from Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655458)** with [Davidson Heath](http://davidsontheath.github.io/) and [Nathan Seegert](http://www.nathanseegert.com/)
 <br>
 
 
