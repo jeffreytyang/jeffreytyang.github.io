@@ -11,6 +11,8 @@
 
 ### Working Papers
 
+**[Cross-Asset Liquidity Transmission]()** with [Jonathan Brogaard](https://brogaard.utah.edu/), [Pei-Fang Hsieh](https://mx.nthu.edu.tw/~pfhsieh/), and [Jimmy Yang](https://business.oregonstate.edu/users/jimmy-yang)
+<br>
 
 **[Cybersecurity Risk in Crypto Securities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4275724)** with [Da Huang](https://dahuang-finance.github.io/)
 <br>
