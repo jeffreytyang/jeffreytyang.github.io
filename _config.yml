@@ -1,7 +1,7 @@
 title: Jeffrey Yang
 description: <p>Finance Ph.D. Candidate<br /> David Eccles School of Business, University of Utah</p>
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-slate
 
 gems:
