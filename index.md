@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<img src="images/jy_2021.jpg" width="350">
+<img src="images/jy_2024.jpg" width="350">
 </p>
 
 **Email:** jeffrey.yang@eccles.utah.edu &nbsp;  **Office:** BUC 450B
