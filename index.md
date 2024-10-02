@@ -25,11 +25,12 @@
 **[Team Production and the Homophily Trap: Evidence from Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655458)** with [Davidson Heath](http://davidsontheath.github.io/) and [Nathan Seegert](http://www.nathanseegert.com/)
 <br>
 
+<br>
 
 ### Teaching
 
-FINAN 4030: Corporate Finance (sole instructor), Summer 2024
-Average instructor rating: 5.87/6
+FINAN 4030: Corporate Finance (sole instructor), Summer 2024 <br>
+Average instructor rating: 5.87/6 <br>
 **[Teaching Evaluation](finan_4030_evals.pdf)**
 
 FINAN 7850: Advanced Empirical Asset Pricing (teaching assistant), Fall 2023/2024
