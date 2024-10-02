@@ -26,4 +26,13 @@
 <br>
 
 
+### Teaching
+
+FINAN 4030: Corporate Finance (sole instructor), Summer 2024
+Average instructor rating: 5.87/6
+**[Teaching Evaluation](finan_4030_evals.pdf)**
+
+FINAN 7850: Advanced Empirical Asset Pricing (teaching assistant), Fall 2023/2024
+
+
 
