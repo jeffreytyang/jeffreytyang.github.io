@@ -3,6 +3,3 @@ description: <p>Finance Ph.D. Candidate<br /> David Eccles School of Business, U
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-slate
-
-gems:
-  - jekyll-mentions
