@@ -14,7 +14,7 @@
 
 **[Does High Frequency Market Manipulation Harm Market Quality?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280120)** with [Jonathan Brogaard](https://brogaard.utah.edu/) and [Dan Li](https://myweb.cuhk.edu.cn/lidan)
 <br>
-<i>Revise and Resubmit, Review of Financial Studies</I>
+_Revise and Resubmit, Review of Financial Studies_
 <br>
 
 **[Cross-Asset Liquidity Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4875686)** with [Jonathan Brogaard](https://brogaard.utah.edu/), [Pei-Fang Hsieh](https://mx.nthu.edu.tw/~pfhsieh/), and [Jimmy Yang](https://business.oregonstate.edu/users/jimmy-yang)
