@@ -12,12 +12,12 @@
 ### Job Market Paper
 
 **[The Cost of Oversight: Hedge Fund Regulatory Risk and Price Efficiency]()** 
-<button id="btn-abs1" onclick="toggleAbstract('abs1','btn-abs1')" 
+<button id="btn-abs0" onclick="toggleAbstract('abs0','btn-abs0')" 
   style="border:none; background:none; color:#0066cc; cursor:pointer; font-size:90%; margin-left:6px;">
   [+] Abstract
 </button>  
 
-<div id="abs1" style="display:none; margin:5px 0 10px 0;">
+<div id="abs0" style="display:none; margin:5px 0 10px 0;">
   <p>
     [Abstract]
   </p>
