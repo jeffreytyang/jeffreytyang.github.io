@@ -20,8 +20,7 @@
   <a href="#"
      id="btn-abs0"
      class="abs-toggle"
-     onclick="toggleAbstract('abs0','btn-abs0'); return false;"
-     style="margin-left:6px;">
+     onclick="toggleAbstract('abs0','btn-abs0'); return false;">
      [+] Abstract
   </a>
 </div>
