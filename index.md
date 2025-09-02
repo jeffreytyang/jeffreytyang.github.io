@@ -23,7 +23,6 @@
 </div>
 
 
-
 ### Working Papers
 
 **[Does High Frequency Market Manipulation Harm Market Quality?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280120)** 
