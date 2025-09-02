@@ -135,12 +135,12 @@ strong {
 
 img {
   position: relative;
-  margin: 0 auto;
-  max-width: 800px;
+  display: block;
+  max-width: 100%;
+  height: auto;
   padding: 5px;
-  margin: 10px 0 10px 0;
+  margin: 10px 0;
   border: 1px solid #ebebeb;
-
   box-shadow: 0 0 5px #ebebeb;
   -webkit-box-shadow: 0 0 5px #ebebeb;
   -moz-box-shadow: 0 0 5px #ebebeb;
@@ -266,7 +266,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 1100px;
+  max-width: 1400px;
   padding: 20px 10px;
   margin: 0 auto;
 }
