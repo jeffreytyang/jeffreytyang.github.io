@@ -470,3 +470,7 @@ Small Device Styles
 }
 .paper-title-container .abs-toggle:hover { text-decoration: underline; }
 
+.paper-title-container strong {
+  margin-right: 6px;
+}
+
