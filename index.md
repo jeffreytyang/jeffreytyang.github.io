@@ -12,9 +12,7 @@
 ### Job Market Paper
 
 <div class="paper-title-container">
-  <h3>
-    <a href="#">The Cost of Oversight: Hedge Fund Regulatory Risk and Price Efficiency</a>
-  </h3>
+  <strong><a href="#">The Cost of Oversight: Hedge Fund Regulatory Risk and Price Efficiency</a></strong>
   <button id="btn-abs0" onclick="toggleAbstract('abs0','btn-abs0')">[+] Abstract</button>
 </div>
 
