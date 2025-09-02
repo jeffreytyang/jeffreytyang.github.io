@@ -17,7 +17,13 @@
     The Cost of Oversight: Hedge Fund Regulatory Risk and Price Efficiency
     <!-- </a> -->
   </strong>
-  <a href="#" id="btn-abs0" class="abs-toggle" onclick="toggleAbstract('abs0','btn-abs0'); return false;">[+] Abstract</a>
+  <a href="#"
+     id="btn-abs0"
+     class="abs-toggle"
+     onclick="toggleAbstract('abs0','btn-abs0'); return false;"
+     style="margin-left:6px;">
+     [+] Abstract
+  </a>
 </div>
 
 <div id="abs0" style="display:none; margin:5px 0 10px 0;">
