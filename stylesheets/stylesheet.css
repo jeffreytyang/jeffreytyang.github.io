@@ -460,12 +460,13 @@ Small Device Styles
 }
 
 .paper-title-container .abs-toggle {
+  display: inline-block;
+  margin-left: 6px;
   font-size: 90%;
-  margin-left: 6px;      /* same spacing as your other buttons */
-  color: #0066cc;        /* same blue */
-  text-decoration: none; /* looks like your existing inline style */
+  color: #0066cc;
+  text-decoration: none;
   cursor: pointer;
-  white-space: nowrap;   /* prevents wrapping */
+  white-space: nowrap;
 }
 .paper-title-container .abs-toggle:hover { text-decoration: underline; }
 
