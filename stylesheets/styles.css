@@ -45,10 +45,12 @@ a small {
   display:block;
 }
 
+
 .wrapper {
-  width:1800px;
-  margin:0 auto;
+  max-width: 100%;
+  padding: 0 20px;
 }
+
 
 blockquote {
   border-left:1px solid #e5e5e5;
