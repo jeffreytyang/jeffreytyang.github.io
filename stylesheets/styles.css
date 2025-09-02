@@ -254,3 +254,22 @@ footer {
   }
 }
 
+.paper-title-container {
+  display: flex;
+  align-items: baseline; /* Aligns the title and button vertically */
+  flex-wrap: nowrap; /* Prevents wrapping to a new line */
+  margin-bottom: 10px; /* Adds spacing below each paper title */
+}
+
+.paper-title-container h3 {
+  margin: 0; /* Removes default margin to prevent extra space */
+}
+
+.paper-title-container button {
+  margin-left: 6px; /* Keeps the original margin */
+  font-size: 90%; /* Matches the inline style */
+  border: none;
+  background: none;
+  color: #0066cc;
+  cursor: pointer;
+}
