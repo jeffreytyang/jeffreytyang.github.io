@@ -255,3 +255,12 @@ footer {
 }
 
 
+#btn-abs0 {
+  white-space: nowrap;
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+  font-size: 90%; /* Slightly smaller font size to reduce width */
+  padding: 0 5px; /* Reduce padding to make button more compact */
+  margin-left: 4px; /* Slightly smaller margin */
+}
