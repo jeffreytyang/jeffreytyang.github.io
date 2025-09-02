@@ -432,3 +432,29 @@ Small Device Styles
   max-width: 100%;
   box-sizing: border-box;
 }
+
+
+.paper-title-container {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: nowrap;
+  gap: 6px; /* Optional: adds spacing between title and button */
+  margin-bottom: 10px;
+}
+
+.paper-title-container a {
+  font-weight: bold;
+  color: #007edf;
+  text-decoration: none;
+}
+
+.paper-title-container button {
+  font-size: 90%;
+  border: none;
+  background: none;
+  color: #0066cc;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+
