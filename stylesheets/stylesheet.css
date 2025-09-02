@@ -455,13 +455,13 @@ Small Device Styles
   display: flex;
   align-items: baseline;
   flex-wrap: nowrap;
-  gap: 6px;
+  gap: 6px !important;
   margin-bottom: 10px;
 }
 
 .paper-title-container .abs-toggle {
   display: inline-block;
-  margin-left: 6px;
+  margin-left: 6px !important;
   font-size: 90%;
   color: #0066cc;
   text-decoration: none;
