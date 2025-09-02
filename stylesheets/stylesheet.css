@@ -455,6 +455,7 @@ Small Device Styles
   color: #0066cc;
   cursor: pointer;
   white-space: nowrap;
+  margin-left: 6px; /* add this if it’s missing */
 }
 
 
