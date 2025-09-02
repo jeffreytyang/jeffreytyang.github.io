@@ -12,16 +12,16 @@
 ### Working Papers
 
 
-**[Does High Frequency Market Manipulation Harm Market Quality?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280120)** with [Jonathan Brogaard](https://brogaard.utah.edu/) and [Dan Li](https://myweb.cuhk.edu.cn/lidan)
-<br>
-_Revise and Resubmit, Review of Financial Studies_
-<br>
-<details>
-  <summary>Abstract</summary>
+**[Does High Frequency Market Manipulation Harm Market Quality?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280120)** 
+with [Jonathan Brogaard](https://brogaard.utah.edu/) and [Dan Li](https://myweb.cuhk.edu.cn/lidan) 
+<details style="display:inline;">
+  <summary style="display:inline; cursor:pointer; color:blue; margin-left:8px;">[Abstract]</summary>
   <p>
     Manipulation of financial markets has long been a concern. With the automation of financial markets, the potential for high frequency manipulation has arisen. Yet, such behavior is hidden within vast sums of order book data, making it difficult to define and to detect. We develop a tangible definition of one type of manipulation, spoofing. Using proprietary user-level identified order book data, we show the determinants of spoofing. Exploiting SEC Litigation Releases and lagged spoofing profitability as instruments, we show causal evidence that spoofing increases volatility and transaction costs, and decreases price efficiency. The findings indicate that spoofing harms market quality.
   </p>
 </details>
+<br>
+_Revise and Resubmit, Review of Financial Studies_
 
 
 **[Cross-Asset Liquidity Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4875686)** with [Jonathan Brogaard](https://brogaard.utah.edu/), [Pei-Fang Hsieh](https://mx.nthu.edu.tw/~pfhsieh/), and [Jimmy Yang](https://business.oregonstate.edu/users/jimmy-yang)
