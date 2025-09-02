@@ -474,3 +474,13 @@ Small Device Styles
   margin-right: 6px;
 }
 
+
+.inner {
+  max-width: 1600px !important; /* Or try 100% if you want full screen */
+}
+
+
+body {
+  outline: 5px solid red !important;
+}
+
