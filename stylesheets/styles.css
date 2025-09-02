@@ -46,7 +46,7 @@ a small {
 }
 
 .wrapper {
-  width:1200px;
+  width:1400px;
   margin:0 auto;
 }
 
@@ -96,7 +96,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:300px;
   float:left;
   position:fixed;
 }
@@ -160,7 +160,7 @@ header ul a strong {
 }
 
 section {
-  width:700px;
+  width:900px;
   float:right;
   padding-bottom:50px;
 }
@@ -183,7 +183,7 @@ footer {
   bottom:50px;
 }
 
-@media print, screen and (max-width: 1200px) {
+@media print, screen and (max-width: 1400px) {
   
   div.wrapper {
     width:auto;
@@ -197,7 +197,7 @@ footer {
   }
   
   header {
-    padding-right:320px;
+    Padding-right:0;
   }
   
   section {
@@ -254,13 +254,3 @@ footer {
   }
 }
 
-
-#btn-abs0 {
-  white-space: nowrap;
-  display: inline-block;
-  max-width: 100%;
-  box-sizing: border-box;
-  font-size: 90%; /* Slightly smaller font size to reduce width */
-  padding: 0 5px; /* Reduce padding to make button more compact */
-  margin-left: 4px; /* Slightly smaller margin */
-}
