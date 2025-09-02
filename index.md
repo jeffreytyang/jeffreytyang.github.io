@@ -13,13 +13,11 @@
 
 <div class="paper-title-container">
   <strong><a href="#">The Cost of Oversight: Hedge Fund Regulatory Risk and Price Efficiency</a></strong>
-  <button id="btn-abs0" onclick="toggleAbstract('abs0','btn-abs0')">[+] Abstract</button>
+  <a href="#" id="btn-abs0" class="abs-toggle" onclick="toggleAbstract('abs0','btn-abs0'); return false;">[+] Abstract</a>
 </div>
 
 <div id="abs0" style="display:none; margin:5px 0 10px 0;">
-  <p>
-    Abstract
-  </p>
+  <p>Abstract</p>
 </div>
 
 

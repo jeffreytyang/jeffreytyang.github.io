@@ -434,13 +434,6 @@ Small Device Styles
 }
 
 
-.paper-title-container {
-  display: flex;
-  align-items: baseline;
-  flex-wrap: nowrap;
-  gap: 6px; /* Optional: adds spacing between title and button */
-  margin-bottom: 10px;
-}
 
 .paper-title-container a {
   font-weight: bold;
@@ -458,4 +451,21 @@ Small Device Styles
   margin-left: 6px !important;
 }
 
+.paper-title-container {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: nowrap;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.paper-title-container .abs-toggle {
+  font-size: 90%;
+  margin-left: 6px;      /* same spacing as your other buttons */
+  color: #0066cc;        /* same blue */
+  text-decoration: none; /* looks like your existing inline style */
+  cursor: pointer;
+  white-space: nowrap;   /* prevents wrapping */
+}
+.paper-title-container .abs-toggle:hover { text-decoration: underline; }
 
