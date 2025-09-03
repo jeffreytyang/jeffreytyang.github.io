@@ -19,24 +19,18 @@
 
 ### Job Market Paper
 
-<div class="paper-title-container">
-  <strong>
-    <!-- <a href="#"> -->
-    The Cost of Oversight: Hedge Fund Regulatory Risk and Price Efficiency
-    <!-- </a> -->
-  </strong>
-  <a href="#"
-     id="btn-abs0"
-     class="abs-toggle"
-     onclick="toggleAbstract('abs0','btn-abs0'); return false;"
-     style="margin-left:6px;">
-     [+] Abstract
-  </a>
-</div>
+
+**The Cost of Oversight: Hedge Fund Regulatory Risk and Price Efficiency** 
+<button id="btn-abs0" onclick="toggleAbstract('abs0','btn-abs0')" 
+  style="border:none; background:none; color:#0066cc; cursor:pointer; font-size:90%; margin-left:6px;">
+  [+] Abstract
+</button>  
 
 <div id="abs0" style="display:none; margin:5px 0 10px 0;">
   <p>Regulators seek to deter misconduct and maintain orderly markets through enforcement. However, hedge funds employ strategies that are difficult to classify as legitimate or manipulative. Regulatory risk, the likelihood of investigation or litigation, deters manipulation but can also discourage legitimate trading. Thus, the net effect on financial markets is an empirical question. This paper examines the impact of hedge fund regulatory risk on stock market efficiency. Increased regulatory risk hurts both weak-form price efficiency and price informativeness, as hedge funds reduce informed trading in response. The results indicate that efficiency gains from deterring manipulation are outweighed by efficiency losses from reduced legitimate trading.</p>
+
 </div>
+
 
 
 ### Working Papers
