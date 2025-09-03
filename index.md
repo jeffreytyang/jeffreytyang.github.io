@@ -1,14 +1,24 @@
 <style>
-.outer, #main_content_wrap, #main_content {
-  text-align: center;
+/* 1) Center the layout container, not the text */
+.inner {
+  max-width: 800px !important;   /* pick 1200/1400/etc */
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: block !important;       /* ensures auto margins work */
 }
 
-.inner {
-  max-width: 1200px !important;
-  width: 100% !important;
-  margin: 0 auto !important;
-  display: block !important;
-  text-align: left;  /* keep text left-aligned inside */
+/* 2) Make sure text remains left-aligned */
+body, #main_content_wrap, #main_content, .inner {
+  text-align: left !important;
+}
+
+/* 3) (Optional) Responsive images that don’t force centering via text-align */
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 10px auto;               /* center the image box itself; change to 0 if you prefer left */
 }
 </style>
 
