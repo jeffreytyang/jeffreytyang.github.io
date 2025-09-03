@@ -1,3 +1,10 @@
+<style>
+.inner {
+  max-width: 1200px !important;
+  width: 100% !important;
+}
+</style>
+
 
 <p align="center"> 
 <img src="images/jy_2024.jpg" width="350">
