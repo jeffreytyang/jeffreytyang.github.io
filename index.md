@@ -1,7 +1,7 @@
 <style>
 /* 1) Center the layout container, not the text */
 .inner {
-  max-width: 700px !important;   /* pick 1200/1400/etc */
+  max-width: 670px !important;   /* pick 1200/1400/etc */
   width: 100% !important;
   margin-left: auto !important;
   margin-right: auto !important;
