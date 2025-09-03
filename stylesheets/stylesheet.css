@@ -480,7 +480,14 @@ Small Device Styles
 }
 
 
-body {
-  outline: 5px solid red !important;
+/* Override Slate theme container */
+.container {
+  max-width: 1600px !important;  /* Or try 100% if you want full screen */
+  width: 100% !important;
 }
 
+
+.container img {
+  max-width: 100% !important;
+  height: auto;
+}
