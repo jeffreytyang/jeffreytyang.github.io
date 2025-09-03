@@ -143,7 +143,7 @@ html, body { overflow-x: hidden; }
 
 </div>
 
-<br>
+<div style="height:0.5em;"></div>
 
 
 ### Working Papers
@@ -222,7 +222,7 @@ function toggleAbstract(absId, btnId) {
 </script>
 
 
-<br>
+<div style="height:0.5em;"></div>
 
 ### Teaching
 
