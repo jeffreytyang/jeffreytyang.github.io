@@ -66,6 +66,58 @@ img {
 </style>
 
 
+<style>
+/* Safety net: never allow sideways scrolling */
+html, body { overflow-x: hidden; }
+
+/* Make padding count toward width calculations */
+*, *::before, *::after { box-sizing: border-box; }
+
+/* Mobile fixes */
+@media (max-width: 600px) {
+  /* Use full width with comfy side padding */
+  .inner {
+    max-width: 100% !important;
+    min-width: 0 !important;             /* override theme's min-width */
+    padding-left: 14px !important;
+    padding-right: 14px !important;
+  }
+
+  /* Hide absolute-positioned decorations that can poke past the edge */
+  #downloads,
+  #forkme_banner {
+    display: none !important;
+  }
+
+  /* Force long content to wrap instead of pushing the layout wide */
+  .paper-title-container,
+  #abs0, #abs1, #abs2, #abs3, #abs4,
+  p, li, a, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    hyphens: auto;
+  }
+
+  /* Keep media within the viewport */
+  img, iframe, video {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  /* Code and tables: don't shove the page sideways */
+  pre, code {
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+  table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+}
+</style>
+
+
 
 <p align="center"> 
 <img src="images/jy_2024.jpg" width="350">
