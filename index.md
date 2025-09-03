@@ -1,4 +1,7 @@
-<link rel="stylesheets/styles.css" href="stylesheets/stylesheet.css">
+---
+layout: default
+title: Home
+---
 
 <p align="center"> 
 <img src="images/jy_2024.jpg" width="350">
