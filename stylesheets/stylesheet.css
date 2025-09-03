@@ -491,3 +491,17 @@ Small Device Styles
   max-width: 100% !important;
   height: auto;
 }
+
+
+/* Override Slate theme width */
+.container,
+#main,
+.inner,
+.content {
+  max-width: 1600px !important;  /* stretch as wide as you want */
+  width: 100% !important;
+}
+
+body {
+  margin: 0 auto;
+}
