@@ -23,6 +23,50 @@ img {
 </style>
 
 
+<style>
+/* Mobile fixes */
+@media (max-width: 600px) {
+  /* 1) Let the container breathe on phones */
+  .inner {
+    max-width: 100% !important;
+    padding-left: 14px !important;
+    padding-right: 14px !important;
+  }
+
+  /* 2) Make text/links wrap instead of overflowing */
+  .paper-title-container,
+  #abs0, #abs1, #abs2, #abs3, #abs4,       /* your abstract blocks */
+  .abs, .abstract,                          /* future-proof selectors */
+  p, li, h1, h2, h3, h4, h5, h6,
+  a {
+    overflow-wrap: anywhere;
+    word-break: break-word; /* backup for older browsers */
+    hyphens: auto;
+  }
+
+  /* 3) Keep images inside the viewport */
+  img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  /* 4) Make code blocks wrap instead of horizontal scrolling off-screen */
+  pre, code {
+    white-space: pre-wrap;    /* wrap long lines */
+    word-break: break-word;
+  }
+
+  /* 5) Tables should scroll horizontally instead of breaking layout */
+  table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+  }
+}
+</style>
+
+
+
 <p align="center"> 
 <img src="images/jy_2024.jpg" width="350">
 </p>
