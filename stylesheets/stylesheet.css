@@ -505,3 +505,17 @@ Small Device Styles
 body {
   margin: 0 auto;
 }
+
+
+html body .container {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+html body .inner,
+html body .wrapper,
+html body .content {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
