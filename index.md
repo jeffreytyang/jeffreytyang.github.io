@@ -1,8 +1,10 @@
 <style>
 .inner {
-  max-width: 900px !important;
+  max-width: 1000px !important;  /* controls width */
   width: 100% !important;
-  margin: 0 auto !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: block !important;     /* makes sure it's a block so auto margins work */
 }
 </style>
 
