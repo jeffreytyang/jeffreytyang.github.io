@@ -5,6 +5,7 @@
   width: 100% !important;
   margin-left: auto !important;
   margin-right: auto !important;
+  padding: 0 20px !important;       /* adds 20px left/right padding */
   display: block !important;       /* ensures auto margins work */
 }
 
@@ -47,6 +48,7 @@ img {
 
 </div>
 
+<br>
 
 
 ### Working Papers
