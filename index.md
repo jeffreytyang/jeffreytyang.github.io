@@ -1,10 +1,14 @@
 <style>
+.outer, #main_content_wrap, #main_content {
+  text-align: center;
+}
+
 .inner {
-  max-width: 1000px !important;  /* controls width */
+  max-width: 1200px !important;
   width: 100% !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  display: block !important;     /* makes sure it's a block so auto margins work */
+  margin: 0 auto !important;
+  display: block !important;
+  text-align: left;  /* keep text left-aligned inside */
 }
 </style>
 
