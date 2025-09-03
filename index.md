@@ -1,7 +1,8 @@
 <style>
 .inner {
-  max-width: 1200px !important;
+  max-width: 900px !important;
   width: 100% !important;
+  margin: 0 auto !important;
 }
 </style>
 
