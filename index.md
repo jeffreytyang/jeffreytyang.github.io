@@ -139,7 +139,8 @@ html, body { overflow-x: hidden; }
 </button>  
 
 <div id="abs0" style="display:none; margin:5px 0 10px 0;">
-  <p>Regulators seek to deter misconduct and maintain orderly markets through enforcement. However, hedge funds employ strategies that are difficult to classify as legitimate or manipulative. Regulatory risk, the likelihood of investigation or litigation, deters manipulation but can also discourage legitimate trading. Thus, the net effect on financial markets is an empirical question. This paper examines the impact of hedge fund regulatory risk on stock market efficiency. Increased regulatory risk hurts both weak-form price efficiency and price informativeness, as hedge funds reduce informed trading in response. The results indicate that efficiency gains from deterring manipulation are outweighed by efficiency losses from reduced legitimate trading.</p>
+  <p>Regulators enforce rules to deter misconduct and maintain orderly markets. However, their task is complicated by hedge funds’ complex strategies, which are difficult to classify as legitimate or manipulative. Regulatory risk, the likelihood of investigation or litigation, deters manipulation but can also discourage legitimate trading. Thus, the net effect of regulatory risk on financial markets is an empirical question. This paper examines the impact of hedge fund regulatory risk on stock market efficiency. Increased regulatory risk hurts weak-form price efficiency and price informativeness, as hedge funds reduce informed trading in response. The results indicate that efficiency gains from deterring manipulation are outweighed by efficiency losses from reduced legitimate trading.
+ </p>
 
 </div>
 
