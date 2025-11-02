@@ -132,7 +132,7 @@ html, body { overflow-x: hidden; }
 ### Job Market Paper
 
 
-**The Cost of Oversight: Hedge Fund Regulatory Risk and Price Efficiency** 
+**[The Cost of Oversight: Hedge Fund Regulatory Risk and Market Efficiency](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5692322)** 
 <button id="btn-abs0" onclick="toggleAbstract('abs0','btn-abs0')" 
   style="border:none; background:none; color:#0066cc; cursor:pointer; font-size:90%; margin-left:6px;">
   [+] Abstract
